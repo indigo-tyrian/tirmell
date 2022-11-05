@@ -9,13 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babylonjs/core": "^5.31.0",
+    "@babylonjs/gui": "^5.31.0",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.8",
+    "babylon": "^6.18.0",
+    "babylonjs": "^5.31.0",
     "eslint": "8.26.0",
     "eslint-config-next": "13.0.2",
     "next": "13.0.2",
     "react": "18.2.0",
+    "react-babylonjs": "^3.1.13",
     "react-dom": "18.2.0",
     "typescript": "4.8.4"
   }
